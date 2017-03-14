@@ -1,0 +1,6 @@
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExample\bin\Debug\UnitTestExample.exe.config
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExample\bin\Debug\UnitTestExample.exe
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExample\bin\Debug\UnitTestExample.pdb
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.csprojResolveAssemblyReference.cache
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.exe
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.pdb

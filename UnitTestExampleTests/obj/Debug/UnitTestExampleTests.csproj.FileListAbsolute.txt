@@ -1,0 +1,8 @@
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExampleTests.dll
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExampleTests.pdb
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExampleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExample.exe
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExampleTests\bin\Debug\UnitTestExample.pdb
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExampleTests\obj\Debug\UnitTestExampleTests.csprojResolveAssemblyReference.cache
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExampleTests\obj\Debug\UnitTestExampleTests.dll
+C:\Users\Royo\Documents\GitHub\UnitTestExample\UnitTestExampleTests\obj\Debug\UnitTestExampleTests.pdb
